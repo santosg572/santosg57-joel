@@ -68,6 +68,8 @@ for (i in 1:ss[1]){
       print(nom)
       print(num)
       print(campos)
+      res = calculoSCL90(campos)
+      print(res)
       isscl90= isscl90+1
    }
 }
