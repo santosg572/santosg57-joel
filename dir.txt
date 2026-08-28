@@ -1,0 +1,16 @@
+BASE_2708_V1.csv -------------------- ago2826
+BASE_2708_V1.xlsm
+Fun_calculaSCL90.R ------------------ ago2826
+Joel_Martinez_BIDS_ago0426
+LeeBASE.R --------------------------- ago2826
+Programas
+Programas_mriqc
+README.md
+copilaR.sh
+datos_faltantes_jul3126.xlsx
+dd
+dir.txt
+scp_baja.sh
+sube_git.sh
+sujetos
+www.txt
