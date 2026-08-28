@@ -14,3 +14,4 @@ scp_baja.sh
 sube_git.sh
 sujetos
 www.txt
+pasar_a_formato_BIDS.txt ----------- ago2826
