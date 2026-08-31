@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+
+<html lang="sp" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>dcm2bids.sh.rst &#8212; документација jmartinez 01</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=12dfc556" />
+    <script src="_static/documentation_options.js?v=cb95fe6c"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Индекс" href="genindex.html" />
+    <link rel="search" title="Претрага" href="search.html" />
+    <link rel="next" title="dcm2bids_config.json.rst" href="dcm2bids_config.json.html" />
+    <link rel="prev" title="../../dcm2bids_todos.sh" href="dcm2bids_todos.sh.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="dcm2bids-sh-rst">
+<h1>dcm2bids.sh.rst<a class="headerlink" href="#dcm2bids-sh-rst" title="Link to this heading">¶</a></h1>
+<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span><span class="ch">#!/bin/bash</span>
+
+module<span class="w"> </span>load<span class="w"> </span>dcm2bids/3.2.0
+
+<span class="nv">dir</span><span class="o">=</span><span class="nv">$1</span>
+<span class="nv">id</span><span class="o">=</span><span class="nv">$2</span>
+
+<span class="c1">#cd $dir</span>
+
+dcm2bids<span class="w"> </span>-d<span class="w"> </span><span class="nv">$dir</span><span class="w"> </span>-p<span class="w"> </span><span class="nv">$id</span><span class="w">  </span>-c<span class="w"> </span>dcm2bids_config.json<span class="w"> </span>--auto_extract_entities<span class="w"> </span>--skip_dcm2niix
+
+<span class="c1">#cd ..</span>
+</pre></div>
+</div>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">jmartinez</a></h1>
+
+
+
+
+
+
+
+
+<h3>Навигација</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="dir.html">dir</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dcm2bids_todos.sh.html">../../dcm2bids_todos.sh</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">dcm2bids.sh.rst</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dcm2bids_config.json.html">dcm2bids_config.json.rst</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dcm2bids_sag.sh.html">dcm2bids_sag.sh.rst</a></li>
+<li class="toctree-l1"><a class="reference internal" href="procesa_dcm.sh.html">procesa_dcm.sh.rst</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dcm.sh.html">dcm.sh</a></li>
+<li class="toctree-l1"><a class="reference internal" href="mriqc01.sh.html">mriqc01.sh</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="dcm2bids_todos.sh.html" title="претходна глава">../../dcm2bids_todos.sh</a></li>
+      <li>Next: <a href="dcm2bids_config.json.html" title="наредна глава">dcm2bids_config.json.rst</a></li>
+  </ul></li>
+</ul>
+</div>
+<search id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Брза претрага</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Тражи" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2026, Leopoldo.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 7.4.7</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 0.7.16</a>
+      
+      |
+      <a href="_sources/dcm2bids.sh.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,64 @@
+dcm2bids_config.json.rst
+========================
+
+.. code:: Bash
+
+   {
+     "descriptions": [
+       {
+         "datatype": "anat",
+         "suffix": "T1w",
+         "criteria": {
+           "SidecarFilename": "*Ax_FSPGR_3D*"
+         }
+       },
+       {
+         "datatype": "anat",
+         "suffix": "T2w",
+         "criteria": {
+           "SidecarFilename": "*Ax_T2*"
+         }
+       },
+       {
+         "datatype": "func",
+         "suffix": "bold",
+         "custom_entities": "task-rest",
+         "criteria": {
+           "SidecarFilename": "*RestState_PREvideo*" 
+         }
+       },
+       {
+         "datatype": "func",
+         "suffix": "bold",
+         "custom_entities": "task-rest",
+         "criteria": {
+           "SidecarFilename": "*RestState_ENTRE*" 
+         }
+       },
+       {
+         "datatype": "func",
+         "suffix": "bold",
+         "custom_entities": "task-rest",
+         "criteria": {
+            "SidecarFilename": "*RestState_FINAL*"
+         }
+       },
+       {
+         "datatype": "func",
+         "suffix": "bold",
+         "custom_entities": "task-Video",
+         "criteria": {
+            "SidecarFilename": "*Video*"
+         }
+       },
+       {
+         "datatype": "func",
+         "suffix": "bold",
+         "custom_entities": "task-restaurative",
+         "criteria": {
+           "SidecarFilename": "*ImagPsicolRest*"
+         }
+       }
+     ]
+   }
+
