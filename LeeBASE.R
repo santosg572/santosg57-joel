@@ -8,7 +8,22 @@ attach(tabla)
 
 SCL90_1[54] = ''
 
-datosN <- cbind(No.[1:55], Nombre[1:55], X[1:55], Age[1:55], Group[1:55], SCL90_1[1:55])
+suj1 = paste('suj-0',1:9, sep='')
+suj2 = paste('suj-',10:55, sep='')
+suj = c(suj1, suj2)
+
+print(suj)
+
+#datosN <- data.frame(No.[1:55], Nombre[1:55])
+
+#print(datosN)
+
+titulo = c('Número', 'Nombre', 'id-XNAT', 'SUJ-BIDS', 'EDAD', 'GRUPO', 'SCL90_1')
+datosN <- data.frame(No.[1:55], Nombre[1:55], X[1:55], suj,  Age[1:55], Group[1:55], SCL90_1[1:55])
+
+colnames(datosN) <- titulo
+
+print(datosN)
 
 k = rep(0,10)
 Res = c()
@@ -35,11 +50,19 @@ for (i in 1:55){
 
 Res = as.matrix(Res)
 
-print(dim(Res))
+titulos2 = c('Somatización', 'Obsesivo-compulsivo', 'Sensi. Interpersonal', 'Depresión', 'Ansiedad', 'Hostilidad', 'Ansiedad fóbica', 'Paranoia', 'Psicoticismo', 'ISG')
+
+print(titulos2)
+
+rownames(Res) <- NULL
+
+colnames(Res) <- titulos2
+
+print(Res)
 
 datosN <- cbind(datosN, Res)
-
-rownames(datosN) <- NULL
-
+ 
 print(datosN)
+
+write.csv(datosN, 'datosN.csv')
 
