@@ -1,0 +1,62 @@
+﻿Nombre,No. ,,Subject ID,,Age,Group,SAAC 1,SAAC 2,SAAC 3,EdScore,Somat,Obs-com,IntSen,Dep,Anx,Host,PhobAnx,ParId,Psych,GSI
+Ocampo_Mortera_Miguel_Angel,1,200,sub-01,./dcm2bids.sh file_200 01,56,1,1.11,1.44,2.11,58.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vazquez_Benitez_Moises,2,201,sub-02,./dcm2bids.sh file_201 02,29,1,1.67,2.22,2.22,50,0.417,0.8,0.556,0.538,0.6,0.667,0.286,0.667,0.4,0.611
+Marquez_Ramos_Jose_Abraham,3,202,sub-03,./dcm2bids.sh file_202 03,29,1,1.22,2.78,1.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+de_la_Cruz_Garibay_Jafet,4,203,sub-04,./dcm2bids.sh file_203 04,22,1,1.78,2.89,1.11,83.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pena_Valdes_Victor_Alfonso,5,204,sub-05,./dcm2bids.sh file_204 05,24,1,1.8,3,2,58.33,0,0.7,0.222,0.462,0.5,0.667,0,0.5,0,0.344
+Nieto_Posadas_Andres,6,205,sub-06,./dcm2bids.sh file_205 06,30,1,1.5,1.4,1.3,91.67,0.083,0.1,0,0,0,0,0,0,0,0.044
+Martinez_Clemente_Evaristo,7,206,sub-07,./dcm2bids.sh file_206 07,49,1,2.2,3,2.6,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moreno_Garcia_Antonio,8,207,sub-08,./dcm2bids.sh file_207 08,42,1,1.33,1.33,1.33,50,0.417,0.8,0.556,0.538,0.6,0.667,0.286,0.667,0.4,0.611
+Dorado_Mendieta_Cutberto,9,208,sub-09,./dcm2bids.sh file_208 09,43,0,1.5,1.2,1,100,1.417,1.3,0.556,0.692,1,0.167,0,0.333,0.8,0.744
+Lozano_Flores_Carlos,10,209,sub-10,./dcm2bids.sh file_209 10,33,0,1.33,1.44,1.33,83.33,0.417,0.3,0,0.231,0.4,0.5,0,0.833,0,0.322
+Castanon_Martinez_Jorge_Nicolas,11,210,sub-11,./dcm2bids.sh file_210 11,28,0,2.4,2.4,1.9,66.67,0.41,0.7,0.77,0.53,0.5,0,0.28,1,0.5,0.56
+Luna_Olvera_Gamaliel,12,211,sub-12,./dcm2bids.sh file_211 12,26,0,1.89,1.89,1.78,33.33,0.667,0.7,0.222,0.462,0.1,0,0.143,0.5,0.2,0.389
+Gonzalez_Gonzalez_Carlos,13,212,sub-13,./dcm2bids.sh file_212 13,49,0,1.00,1.33,1.00,33.33,0.333,0.8,0.222,0.692,0.5,0,0,0.333,0.2,0.411
+de_la_Cruz_Ramirez_Daniel,14,213,sub-14,./dcm2bids.sh file_213 14,43,0,1.44,1.89,1.44,83.33,1.833,2.1,1.556,1,1.2,1.333,0.571,0.5,0.6,1.233
+De_la_Cruz_Daniel_Nahum,15,214,sub-15,./dcm2bids.sh file_214 15,19,0,2.22,2.44,2.44,66.67,0.417,0.9,0.333,0.308,0.3,0.5,0,0.167,0.4,0.378
+Flores_Gomez_Miguel_Angel,16,215,sub-16,./dcm2bids.sh file_215 16,38,0,1.33,1.11,1.22,66.67,0.417,0.9,0.333,0.308,0.3,0.5,0,0.167,0.4,0.378
+Guerrero_de_la_Cruz_David_Alberto,17,217,sub-17,./dcm2bids.sh file_217 17,18,0,1.44,2.67,1.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hernandez_Zavala_Jafet_Israel,18,218,sub-18,./dcm2bids.sh file_218 18,25,0,1.44,1.22,1.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eguiarte_Mereles_Carlos_Ruben,19,219,sub-19,./dcm2bids.sh file_219 19,38,1,2.00,1.56,1.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hernandez_Trinidad_Hector_Hugo,20,296,sub-20,./dcm2bids.sh file_296 20,31,1,1.67,1.22,1.00,100,0.167,0.3,0,0.077,0,0,0,0,0,0.078
+Pena_Casanova_Jose_Victor,21,297,sub-21,./dcm2bids.sh file_297 21,55,1,1.00,1.89,1.00,83.33,0.167,0.3,0,0.077,0,0,0,0,0,0.078
+Lara_Rubalcava_Alberto,22,299,sub-22,./dcm2bids.sh file_299 22,63,0,1.33,2.33,2.11,58.33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hinojosa_Martinez_Oscar,23,301,sub-23,./dcm2bids.sh file_301 23,40,0,1.11,1.44,2.67,83.33,0.583,1.2,0.333,0.615,0.3,1.667,0.429,0,0.2,0.556
+Reyes_Haro_Daniel,24,305,sub-24,./dcm2bids.sh file_305 24,37,1,1.5,3.6,2.6,91.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Santiago_de_la_Cruz_Gabriel,25,309,sub-25,./dcm2bids.sh file_309 25,46,0,1.67,1.00,2.33,83.33,0.583,1.2,0.333,0.615,0.3,1.667,0.429,0,0.2,0.556
+Morales_Ramirez_Edgar,26,310,sub-26,./dcm2bids.sh file_310 26,32,0,1.6,2.8,2.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vela_Beristain_Dhin,27,780,sub-27,./dcm2bids.sh file_780 27,43,1,2.89,3.56,3.89,53.84,0,0.3,0.111,0.154,0,0,0,0.333,0.1,0.178
+Cervantes_Bernal_Jose_Luis,28,781,sub-28,./dcm2bids.sh file_781 28,34,0,1.33,1.33,2.33,25,0.083,0.3,0.111,0.154,0.1,0.167,0,0.333,0,0.133
+Diaz_Patino_Juan_Carlos,29,790,sub-29,./dcm2bids.sh file_790 29,33,1,2.00,3.33,2.22,53.84,0.583,1.1,0.444,0.615,0.6,0.167,0,0.5,0.4,0.578
+Rivas_Guerrero_Miguel_Angel,30,792,sub-30,./dcm2bids.sh file_792 30,27,0,1.33,1.33,2.33,25,0.917,0.4,0.222,0,0.4,0.333,0.143,0.833,0.1,0.389
+Marco_Manclus_Pau,31,793,sub-31,./dcm2bids.sh file_793 31,27,1,1.44,3.00,2.78,66.66,0.167,0.8,0.222,0.231,0.2,0,0.143,0.333,0,0.256
+Juarez_Pineda_Eduardo_Daniel,32,809,sub-32,./dcm2bids.sh file_809 32,30,1,1.22,3.56,2.33,17.64,0,0.1,0.111,0.154,0.2,0.167,0.286,0.667,0,0.156
+Ramirez_Guerrero_Nestor_Josue,33,810,sub-33,./dcm2bids.sh file_810 33,26,1,1.56,1.67,2.22,100,0.5,1,0.889,0.846,0.1,0.333,0,0.667,0.2,0.567
+GUTI_RREZ_VEL_ZQUEZ_RICARDO_DE_JES_S,34,86153,sub-34,./dcm2bids.sh file_86153 34,26,1,2.78,2.33,3.44,36,0.25,0,0.333,0.077,0.2,0.167,0,0,0,0.122
+MAGALLANES_ARANDA_CARLOS,35,86158,sub-35,./dcm2bids.sh file_86158 35,24,1,1.33,NA,NA,66.66,0.333,1.3,0.111,0.385,0.6,0.333,0.143,0.333,0.4,0.467
+D_VILA_M_NDEZ_SERGIO__NGEL,36,86224,sub-36,./dcm2bids.sh file_86224 36,22,1,1,2.33,2.11,80,0.25,0.7,0.889,0.154,0.2,0.667,0.571,0.167,0,0.356
+SOTO_CASTILLO_DAVID_EDUARDO,37,86225,sub-37,./dcm2bids.sh file_86225 37,30,1,1,1.22,1,33.33,0.5,0.9,0.778,0.846,0.5,0.5,1,0.833,0.5,0.678
+ESCALONA_RAMIREZ_PEDRO,38,86380,sub-38,./dcm2bids.sh file_86380 38,21,1,1.89,2.67,2.33,33.33,0.333,0.5,0.444,0.154,0.2,0.667,0.429,0.833,0.6,0.489
+DE_LA_FUENTE_GARC_A_MIGUEL__NGEL,39,86381,sub-39,./dcm2bids.sh file_86381 39,50,0,3.22,3.78,2.11,100,0.583,0,0.222,0.385,0.2,0.5,0.286,0.167,0,0.267
+ESCALONA_RAM_REZ_EDGAR_OMAR,40,86382,sub-40,./dcm2bids.sh file_86382 40,24,1,1,1.33,1,17.64,0.25,0,0,0.308,0,0.333,0.429,0.333,0.2,0.178
+RAM_REZ_DEL_CARMEN_JOS__GUADALUPE,41,86454,sub-41,./dcm2bids.sh file_86454 41,53,0,3.22,2.89,3.56,81.81,0.5,0.6,0.556,0.538,0,0.333,0.571,1,0.4,0.5
+VARGAS_QUINTANA_DANIEL,42,86911,sub-42,./dcm2bids.sh file_86911 42,37,1,1.44,2,1.22,100,0.417,0.8,0.111,0.462,0.3,0.5,0.429,1.167,0,0.411
+BOTELLO_ALVAREZ_MAURICIO_DE_JESUS,43,86913,sub-43,./dcm2bids.sh file_86913 43,28,1,1.33,1.89,1.78,100,1.083,0.6,0.667,0.846,0.9,0.5,2.143,1.333,0.3,0.889
+ROMERO_RANGEL_ROBERTO_CARLOS,44,86914,sub-44,./dcm2bids.sh file_86914 44,37,0,1.67,2.11,2.44,40,0.083,0.1,0.556,0.231,0.2,0,0.286,0,0.2,0.178
+FLORES_VALENCIA_MIGUEL__NGEL,45,86915,sub-45,./dcm2bids.sh file_86915 45,26,0,1.56,2.67,1.67,100,1.5,1.4,1.111,2,1.6,0.5,2.143,1.167,1.1,1.422
+HERN_NDEZ_MONZ_N_JAVIER_IVAN,46,86916,sub-46,./dcm2bids.sh file_86916 46,26,0,1.33,2,1,80,0.5,0.4,0.333,0.385,0.8,0,0.714,0.667,0.5,0.5
+Leon_Sarabia_Eliazar,47,904,sub-47,./dcm2bids.sh file_904 47,29,0,NA,NA,NA,100,1.667,1.4,0.222,1.308,1.4,1.5,0.286,0.667,1.1,1.167
+Luna_Illades_Cesar,48,905,sub-48,./dcm2bids.sh file_905 48,31,0,1.44,2.44,1.78,53.84,0.417,0.2,0,0.077,0,0.333,0,0.5,0,0.144
+Resendiz_Lopez_Eder,49,906,sub-49,./dcm2bids.sh file_906 49,33,0,2.67,2.33,1.89,33.33,0.833,1.1,0.889,0.769,0.4,0.667,0,1.167,0.4,0.711
+Aguirre_Gas√†r_Manuel,50,907,sub-50,./dcm2bids.sh file_907 50,25,1,1.11,2.00,1.11,11.11,0.583,1.2,1.444,1.538,0.7,0.833,0.286,1.333,1.5,1.078
+Giron_Saldivar_Jafet,51,908,sub-51,./dcm2bids.sh file_908 51,24,1,1.56,2.11,1.56,80,0.25,1.6,0.889,0.154,0.7,0.667,0.143,0.667,0,0.5
+Cruz_Valeriano_Edgar,52,911,sub-52,./dcm2bids.sh file_911 52,28,0,1.89,3.00,2.89,80,1.667,2.1,0.889,1.231,2.3,0.167,0.857,2,1.1,1.411
+Cruz_Valeriano_Hugo,53,912,sub-53,./dcm2bids.sh file_912 53,25,0,2.56,2.33,2.44,100,1.25,2.2,2.333,2,1.9,1.667,1,2.667,1.7,1.844
+Olalde_Mathieu_Victor_Enrique,54,974,sub-54,./dcm2bids.sh file_974 54,33,0,1.44,2.00,1.78,53.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cuevas_Duran_Salvador,55,975,sub-55,./dcm2bids.sh file_975 55,24,1,1.56,1.89,2.00,66.66,0.25,0.9,0,0.385,0.6,0.667,0.571,0.5,0.1,0.456
+Ulises Navarrete Ramírez,56,86541,sub-56,,20,0,1,1.22,1,100,0.667,0.9,0.333,0.538,0.3,0.667,0.857,1.333,0.7,0.644
+Kevin Josué Camacho Jiménez,57,86542,sub-57,,27,1,1.33,2,1,66.66,0,0.1,0.111,0.154,0.4,0.333,0.286,0,0.1,0.156
+José Alberto Vargas González ,58,86988,sub-58,,29,1,1.44,2.22,1,66.66,0.5,0.2,0.111,0.154,0.2,0.333,0.143,0.5,0.1,0.233
+FELIPE DE JESÚS SANTIAGO FLORES,59,87084,sub-59,,32,1,1.78,3,1.44,53.84,0.167,0.1,0.667,0.077,0.3,0.667,0.286,0.333,0.5,0.333
+Ricardo Alfredo Cortez Suárez,60,87588,sub-60,,39,0,1.78,2.22,NA,100,0.917,0.8,0.667,1.308,0.8,0.167,1.429,1.333,0.2,0.856
+Santiago Perea Castillo,61,87625,sub-61,,31,1,1.78,1.33,1.33,81.81,0.5,0.2,0.222,0.615,0.3,0.333,0.571,1,0.3,0.444

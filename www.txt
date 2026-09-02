@@ -1,3 +1,4 @@
 NYU_CSC_TestRetest_tool/Resource https://www.nitrc.org/projects/nyu_trt
+https://cds-specification.readthedocs.io/en/v0.1.1/specification/root-metadata-files/participants/
 
 
