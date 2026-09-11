@@ -26,7 +26,7 @@
      units="in"
      inkscape:zoom="0.77771465"
      inkscape:cx="397.31796"
-     inkscape:cy="329.81248"
+     inkscape:cy="345.24231"
      inkscape:window-width="1399"
      inkscape:window-height="1081"
      inkscape:window-x="877"
@@ -148,11 +148,11 @@
        id="path40-9-4" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.41177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-8)"
-       d="m 63.079874,51.474014 v 4.652491"
+       d="m 79.484051,51.474014 v 4.652491"
        id="path40-0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1.41177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send-8-1)"
-       d="m 205.47775,52.172874 v 4.652491"
+       d="m 197.01103,52.172874 v 4.652491"
        id="path40-0-9" />
     <text
        xml:space="preserve"
@@ -200,24 +200,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.72414px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.193104"
-       x="154.88606"
+       x="154.3569"
        y="50.440594"
        id="text16367-6"><tspan
          sodipodi:role="line"
          id="tspan16365-4"
          style="stroke-width:0.193104"
-         x="154.88606"
+         x="154.3569"
          y="50.440594">task-restaurative_bold</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.72414px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.193104"
-       x="28.14156"
+       x="48.779079"
        y="50.629547"
        id="text16367-8"><tspan
          sodipodi:role="line"
          id="tspan16365-0"
          style="stroke-width:0.193104"
-         x="28.14156"
+         x="48.779079"
          y="50.629547">task-video_bold</tspan></text>
   </g>
 </svg>
